@@ -11,7 +11,7 @@ public class Main {
 		System.out.printf("あいうえお \n");
 		System.out.print("あいうえお ");
 		System.out.print("あいうえお ");
-		System.out.print("あいうえお ");
+		System.out.print("あいうえお");
 	}
 
 }
