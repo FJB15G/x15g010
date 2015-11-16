@@ -4,9 +4,9 @@ public class Main {
 
 	public static void main(String[] args) {
 		int i;
-		for(i=0;i<10;i++)
+		for(i=10;i<=30;i+=10)
 
-			System.out.print("☆");
+			System.out.println(i+" *");
 
 	}
 
